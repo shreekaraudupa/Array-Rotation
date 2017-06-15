@@ -1,6 +1,6 @@
 # Array-Rotation
 Array rotation using deque
-package rotation;
+
 
 import java.util.*;
 
@@ -34,7 +34,7 @@ public class rotation {
 	}
 
 }
-/*
+
 n is number of elements
 k in number of rotation 
 
