@@ -2,10 +2,6 @@
 Array rotation using deque
 
 
-import java.util.*;
-
-public class rotation {
-
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		Deque q=new LinkedList();
@@ -33,7 +29,6 @@ public class rotation {
         }
 	}
 
-}
 
 n is number of elements
 k in number of rotation 
